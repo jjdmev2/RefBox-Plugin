@@ -1,0 +1,5 @@
+build/
+DAW Builds/
+.DS_Store
+*.user
+*.swp
